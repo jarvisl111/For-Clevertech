@@ -1,2 +1,2 @@
 # For-Clevertech
-Includes resume and other bits and bobs!
+Includes resume and some of my favourite apps/tech and review!
